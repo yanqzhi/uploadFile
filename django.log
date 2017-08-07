@@ -1,0 +1,40 @@
+[INFO]	asctime:2017-08-05 18:25:32,601	module:consumers	message:media/10_JRXkMcc.jpeg	process:24424	thread:140553458145088
+[INFO]	asctime:2017-08-05 18:25:32,601	module:consumers	message:/home/yama/project/uploadFile/media/media/10_JRXkMcc.jpeg	process:24424	thread:140553458145088
+[INFO]	asctime:2017-08-05 18:26:53,208	module:consumers	message:media/10_ECQigsJ.jpeg	process:24538	thread:140359993460544
+[INFO]	asctime:2017-08-05 18:26:53,209	module:consumers	message:/home/yama/project/uploadFile/media/media/10_ECQigsJ.jpeg	process:24538	thread:140359993460544
+[INFO]	asctime:2017-08-05 18:28:27,354	module:consumers	message:/home/yama/project/uploadFile/media/media/8_8U6gTUo.jpeg	process:24666	thread:139752650405696
+[INFO]	asctime:2017-08-05 18:32:39,581	module:consumers	message:/home/yama/project/uploadFile/media/media/8_eckC9BQ.jpeg	process:25675	thread:140606749796160
+[INFO]	asctime:2017-08-05 18:32:39,584	module:consumers	message:('media/8_eckC9BQ.thumbnail', 'JPEG')	process:25675	thread:140606749796160
+[INFO]	asctime:2017-08-05 18:38:08,688	module:consumers	message:/home/yama/project/uploadFile/media/media/8_zjsOfqk.jpeg	process:26420	thread:140648194869056
+[INFO]	asctime:2017-08-05 18:38:08,691	module:consumers	message:media/8_zjsOfqk_thumbnail.jpeg	process:26420	thread:140648194869056
+[INFO]	asctime:2017-08-05 18:38:08,692	module:consumers	message:g	process:26420	thread:140648194869056
+[INFO]	asctime:2017-08-05 18:38:08,733	module:consumers	message:success id:28	process:26420	thread:140648194869056
+[INFO]	asctime:2017-08-05 18:42:35,589	module:consumers	message:/home/yama/project/uploadFile/media/media/8_anwF0fb.jpeg	process:26695	thread:139763038504768
+[INFO]	asctime:2017-08-05 18:45:31,156	module:consumers	message:/home/yama/project/uploadFile/media/media/8_QYWoNxl.jpeg	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:45:31,161	module:consumers	message:media/8_QYWoNxl_thumbnail.jpeg	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:45:31,163	module:consumers	message:media/8_QYWoNxl_thumbnail.jpeg	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:45:31,184	module:consumers	message:success id:30	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:47:36,748	module:consumers	message:/home/yama/project/uploadFile/media/media/8.jpeg	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:47:36,750	module:consumers	message:media/8_thumbnail.jpeg	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:47:36,752	module:consumers	message:media/8_thumbnail.jpeg	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:47:36,788	module:consumers	message:success id:31	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:50:08,727	module:consumers	message:/home/yama/project/uploadFile/media/media/8.jpeg	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:50:08,730	module:consumers	message:media/8_thumbnail.jpeg	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:50:08,731	module:consumers	message:media/8_thumbnail.jpeg	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-05 18:50:08,751	module:consumers	message:success id:32	process:27175	thread:139886038062912
+[INFO]	asctime:2017-08-06 03:26:25,948	module:consumers	message:/home/yama/project/uploadFile/media/8.jpeg	process:7233	thread:139652912944960
+[INFO]	asctime:2017-08-06 03:26:25,963	module:consumers	message:8_thumbnail.jpeg	process:7233	thread:139652912944960
+[INFO]	asctime:2017-08-06 03:26:25,964	module:consumers	message:8_thumbnail.jpeg	process:7233	thread:139652912944960
+[INFO]	asctime:2017-08-06 03:26:25,989	module:consumers	message:success id:33	process:7233	thread:139652912944960
+[INFO]	asctime:2017-08-06 03:29:10,912	module:consumers	message:/home/yama/project/uploadFile/media/8_evptj6p.jpeg	process:7233	thread:139652912944960
+[INFO]	asctime:2017-08-06 03:29:10,915	module:consumers	message:8_evptj6p_thumbnail.jpeg	process:7233	thread:139652912944960
+[INFO]	asctime:2017-08-06 03:29:10,916	module:consumers	message:8_evptj6p_thumbnail.jpeg	process:7233	thread:139652912944960
+[INFO]	asctime:2017-08-06 03:29:10,945	module:consumers	message:success id:34	process:7233	thread:139652912944960
+[INFO]	asctime:2017-08-06 03:29:33,595	module:consumers	message:/home/yama/project/uploadFile/media/8_DJtiplQ.jpeg	process:7802	thread:139831724574528
+[INFO]	asctime:2017-08-06 03:29:33,598	module:consumers	message:media/8_DJtiplQ_thumbnail.jpeg	process:7802	thread:139831724574528
+[INFO]	asctime:2017-08-06 03:29:33,600	module:consumers	message:media/8_DJtiplQ_thumbnail.jpeg	process:7802	thread:139831724574528
+[INFO]	asctime:2017-08-06 03:29:33,619	module:consumers	message:success id:35	process:7802	thread:139831724574528
+[INFO]	asctime:2017-08-06 03:43:39,169	module:consumers	message:/home/yama/project/uploadFile/media/8_yVi83Dc.jpeg	process:7802	thread:139831724574528
+[INFO]	asctime:2017-08-06 03:43:39,172	module:consumers	message:media/8_yVi83Dc_thumbnail.jpeg	process:7802	thread:139831724574528
+[INFO]	asctime:2017-08-06 03:43:39,172	module:consumers	message:media/8_yVi83Dc_thumbnail.jpeg	process:7802	thread:139831724574528
+[INFO]	asctime:2017-08-06 03:43:39,192	module:consumers	message:success id:1	process:7802	thread:139831724574528
